@@ -1,0 +1,2 @@
+Iteration E1: Creating a Smarter Cart
+No início. Não criei a migration ainda.
