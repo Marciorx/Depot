@@ -1,2 +1,3 @@
-Iteration E1: Creating a Smarter Cart
-No início. Não criei a migration ainda.
+Changing the flow
+Fiz a mudança do line_items_controller
+e estava vendo o erro que dá quando tento acessar o /products
